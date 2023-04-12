@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesus Delapaz
-- 👀 I’m a backend software engineer, seeking a remote or hybrid position as a either a backend or full stack software engineer.
+- 👀 I’m a backend software engineer with expertise in Java & JavaScript, seeking a remote or hybrid position as a either a backend or full stack software engineer.
 - 🌱 I’m currently working on multithreading in Java.
 - 💞️ I’m looking to build a portfolio to practice several concepts and learn new ideas while practicing coding.
 - 📫 How to reach me: JesusDelapaz2@live.com
