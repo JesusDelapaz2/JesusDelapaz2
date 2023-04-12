@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesus Delapaz
-- 👀 I’m interested in starting a career in Software Engineering!
-- 🌱 I’m currently learning several design patterns
+- 👀 I’m a backend software engineer, seeking a remote or hybrid position as a either a backend or full stack software engineer.
+- 🌱 I’m currently working on multithreading in Java.
 - 💞️ I’m looking to build a portfolio to practice several concepts and learn new ideas while practicing coding.
 - 📫 How to reach me: JesusDelapaz2@live.com
 
